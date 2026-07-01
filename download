@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated reports (don't commit real org/user data)
+comparison_output_*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
